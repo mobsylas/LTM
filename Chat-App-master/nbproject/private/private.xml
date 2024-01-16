@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/client/ClientThread.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/voiceClient/VoiceClient.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/voiceClient/SoundPacket.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/db/DatabaseConnection.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/Utils/Utils.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/voiceServer/VoiceServer.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/voiceClient/MicThread.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/voiceClient/AudioChannel.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/voiceServer/VoiceMessage.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/dbController/RegisterController.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/client/ClientMainForm.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/client/User.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/db/JDBC.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/voiceServer/ClientConnection.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/voiceServer/SoundPacket.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/client/SendingFileThread.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/server/ServerConstant.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/client/SendFile.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/client/MessageStyle.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/server/ServerMainForm.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/voiceClient/ClientVoiceChatForm.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/videoClient/VideoCilent.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/voiceClient/ErrorVoiceMessage.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/server/SocketThread.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/server/ServerThread.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/server/OnlineListThread.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/dbController/LoginController.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/voiceServer/VoiceServerUtil.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/server/src/voiceServer/VoiceServerLog.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/client/LoginForm.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/voiceClient/ClientVoiceChatBroadCastForm.java</file>
+            <file>file:/D:/gg/Chat-App-master/source_code/client/src/client/ReceivingFileThread.java</file>
+        </group>
+    </open-files>
+</project-private>

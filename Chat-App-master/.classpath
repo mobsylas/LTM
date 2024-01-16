@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="source_code/client/src"/>
+	<classpathentry kind="src" path="source_code/server/src"/>
+	<classpathentry kind="lib" path="jar/client/client.jar"/>
+	<classpathentry kind="lib" path="jar/client/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="jar/client/lib/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="jar/client/lib/jmf-2.1.1e.jar"/>
+	<classpathentry kind="lib" path="jar/client/lib/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="jar/client/lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="jar/client/lib/slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="lib" path="jar/client/lib/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="jar/server/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="jar/server/lib/cling-core-1.0.5.jar"/>
+	<classpathentry kind="lib" path="jar/server/lib/cling-support-1.0.5.jar"/>
+	<classpathentry kind="lib" path="jar/server/lib/teleal-common-1.0.13.jar"/>
+	<classpathentry kind="lib" path="jar/server/server.jar"/>
+	<classpathentry kind="lib" path="lib/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/cling-core-1.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/cling-support-1.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/jmf-2.1.1e.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="lib" path="lib/teleal-common-1.0.13.jar"/>
+	<classpathentry kind="lib" path="lib/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
